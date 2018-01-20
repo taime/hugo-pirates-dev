@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 344"
-date: 2013-06-08 18:40
+date: 2013-06-08T18:40:00+03:00
 comments: true
 categories: podcast
 ---

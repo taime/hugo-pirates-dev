@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 380"
-date: 2014-02-22 16:50
+date: 2014-02-22T16:50:00+03:00
 comments: true
 categories: podcast
 ---

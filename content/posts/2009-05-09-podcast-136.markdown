@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 136
-date: 2009-05-09 20:26
+date: 2009-05-09T20:26:00+03:00
 comments: true
 categories: podcast
 ---

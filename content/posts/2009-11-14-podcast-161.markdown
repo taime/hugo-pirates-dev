@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 161
-date: 2009-11-14 19:13
+date: 2009-11-14T19:13:00+03:00
 comments: true
 categories: podcast
 ---

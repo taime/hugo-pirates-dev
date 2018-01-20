@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 169
-date: 2010-01-09 16:43
+date: 2010-01-09T16:43:00+03:00
 comments: true
 categories: podcast
 ---

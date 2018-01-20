@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 266
-date: 2011-12-03 18:18
+date: 2011-12-03T18:18:00+03:00
 comments: true
 categories: podcast
 ---

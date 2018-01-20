@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 127
-date: 2009-03-07 19:51
+date: 2009-03-07T19:51:00+03:00
 comments: true
 categories: podcast
 ---

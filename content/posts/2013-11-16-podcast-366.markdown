@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 366"
-date: 2013-11-16 16:53
+date: 2013-11-16T16:53:00+03:00
 comments: true
 categories: podcast 
 ---

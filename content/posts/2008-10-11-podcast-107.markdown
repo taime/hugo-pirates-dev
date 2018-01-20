@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 107
-date: 2008-10-11 17:38
+date: 2008-10-11T17:38:00+03:00
 comments: true
 categories: podcast
 ---

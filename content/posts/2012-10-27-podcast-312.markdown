@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 312"
-date: 2012-10-27 18:06
+date: 2012-10-27T18:06:00+03:00
 comments: true
 categories: podcast
 ---

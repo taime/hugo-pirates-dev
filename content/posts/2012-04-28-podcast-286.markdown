@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 286
-date: 2012-04-28 18:16
+date: 2012-04-28T18:16:00+03:00
 comments: true
 categories: podcast
 ---

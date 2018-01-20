@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 343"
-date: 2013-06-01 18:29
+date: 2013-06-01T18:29:00+03:00
 comments: true
 categories: podcast
 ---

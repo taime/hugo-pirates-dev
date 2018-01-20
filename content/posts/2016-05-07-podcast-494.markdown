@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РТ 494"
-date: 2016-05-07 18:42
+date: 2016-05-07T18:42:00+03:00
 comments: true
 filename: rt494post
 categories: podcast

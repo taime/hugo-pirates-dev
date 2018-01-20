@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 259
-date: 2011-10-15 20:09
+date: 2011-10-15T20:09:00+03:00
 comments: true
 categories: podcast
 ---

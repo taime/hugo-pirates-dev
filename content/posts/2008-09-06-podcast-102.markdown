@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ102
-date: 2008-09-06 14:33
+date: 2008-09-06T14:33:00+03:00
 comments: true
 categories: podcast
 ---

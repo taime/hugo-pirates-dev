@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 364"
-date: 2013-11-02 18:07
+date: 2013-11-02T18:07:00+03:00
 comments: true
 categories: podcast
 ---

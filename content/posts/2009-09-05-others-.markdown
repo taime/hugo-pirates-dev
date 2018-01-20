@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: Вопрос ребром
-date: 2009-09-05 12:37
+date: 2009-09-05T12:37:00+03:00
 comments: true
 categories: others
 ---

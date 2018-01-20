@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 267
-date: 2011-12-10 17:38
+date: 2011-12-10T17:38:00+03:00
 comments: true
 categories: podcast
 ---

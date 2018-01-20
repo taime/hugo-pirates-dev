@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 206
-date: 2010-09-25 13:13
+date: 2010-09-25T13:13:00+03:00
 comments: true
 categories: podcast
 ---

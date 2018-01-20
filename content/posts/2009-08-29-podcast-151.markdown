@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 151
-date: 2009-08-29 15:30
+date: 2009-08-29T15:30:00+03:00
 comments: true
 categories: podcast
 ---

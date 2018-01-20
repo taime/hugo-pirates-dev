@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 334"
-date: 2013-03-30 17:38
+date: 2013-03-30T17:38:00+03:00
 comments: true
 categories: podcast
 ---

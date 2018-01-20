@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 347"
-date: 2013-07-06 19:27
+date: 2013-07-06T19:27:00+03:00
 comments: true
 categories: podcast
 ---

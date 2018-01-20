@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 398"
-date: 2014-06-28 18:13
+date: 2014-06-28T18:13:00+03:00
 comments: true
 categories: podcast
 ---

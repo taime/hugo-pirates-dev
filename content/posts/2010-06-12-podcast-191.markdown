@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 191
-date: 2010-06-12 15:42
+date: 2010-06-12T15:42:00+03:00
 comments: true
 categories: podcast
 ---

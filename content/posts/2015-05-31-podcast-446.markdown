@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РТ 446"
-date: 2015-05-31 15:06
+date: 2015-05-31T15:06:00+03:00
 comments: true
 categories: podcast
 filename: rt446post

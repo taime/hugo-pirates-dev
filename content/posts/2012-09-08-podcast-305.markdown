@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РT 305"
-date: 2012-09-08 17:51
+date: 2012-09-08T17:51:00+03:00
 comments: true
 categories: podcast
 ---

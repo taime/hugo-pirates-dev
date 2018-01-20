@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 281
-date: 2012-03-24 18:57
+date: 2012-03-24T18:57:00+03:00
 comments: true
 categories: podcast
 ---

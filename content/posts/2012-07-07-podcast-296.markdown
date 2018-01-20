@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: "После РТ 296"
-date: 2012-07-07 18:24
+date: 2012-07-07T18:24:00+03:00
 comments: true
 categories: podcast
 ---

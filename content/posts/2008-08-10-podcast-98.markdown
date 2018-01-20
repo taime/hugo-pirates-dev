@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: После РТ 98
-date: 2008-08-10 12:10
+date: 2008-08-10T12:10:00+03:00
 comments: true
 categories: podcast
 ---
