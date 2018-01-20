@@ -55,7 +55,29 @@
     <nav role="navigation">{{ block "navigation" . }}{{ partial "site-navigation.html" . }}{{ end }}</nav>
     <div id="main">
       <div id="content">
-        {{ block "main" . }}{{ end }}
+
+
+        <div class="blog-index">
+
+          {{ block "main" . }}{{ end }}
+
+        </div>
+        <aside class="sidebar">
+          Sidebar
+        </aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
       </div>
     </div>
     <footer role="contentinfo">{{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}</footer>

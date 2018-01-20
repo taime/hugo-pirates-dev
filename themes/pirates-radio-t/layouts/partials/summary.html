@@ -1,13 +1,19 @@
-<div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">{{ humanize .Section }}</span>
-    <h1 class="f3 near-black">
+<article>
+  <header>
+
+    <h1 class="entry-title">
       <a href="{{ .URL }}" class="link black dim">
         {{ .Title }}
       </a>
     </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
-    </div>
-  </div>
-</div>
+    <p class="meta">
+
+      <time datetime="2017-09-09T19:29:00+00:00" pubdate="" data-updated="true">Sep 09, 2017 - 1504985340</time> | <a href="/p/2017/09/09/podcast-562/#disqus_thread">2 коммент.</a>
+
+    </p>
+
+  </header>
+
+    {{ .Content }}
+
+</article>
