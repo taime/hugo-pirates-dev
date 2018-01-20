@@ -23,7 +23,7 @@
 
     <script href='{{ "javascripts/modernizr-2.0.js" | absURL }}'></script>
     <script href='{{ "javascripts/ender.js" | absURL }}'></script>
-    <script href='{{ "javascripts/octopress.js" | absURL }}'></script>
+    <!-- <script href='{{ "javascripts/octopress.js" | absURL }}'></script> -->
 
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
@@ -44,6 +44,14 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
+
+    <script src='{{ "assets/audiojs/audio.min.js" | absURL }}'></script>
+
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
 
 
   </head>
@@ -67,24 +75,10 @@
         </aside>
 
 
-
-
-
-
-
-
-
-
-
-
-
       </div>
     </div>
     <footer role="contentinfo">{{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}</footer>
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
-
-
-
 
 
   </body>
