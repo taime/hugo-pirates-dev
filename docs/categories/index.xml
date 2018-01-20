@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Пираты Радио-Т - послешоу подкаста</title>
-    <link>http://pirates.radio-t.com/categories/</link>
+    <link>http://pirates-dev.rownarts.com/categories/</link>
     <description>Recent content in Categories on Пираты Радио-Т - послешоу подкаста</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="http://pirates.radio-t.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pirates-dev.rownarts.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Podcast</title>
-      <link>http://pirates.radio-t.com/categories/podcast/</link>
+      <link>http://pirates-dev.rownarts.com/categories/podcast/</link>
       <pubDate>Sat, 19 Aug 2017 18:59:59 +0300</pubDate>
       
-      <guid>http://pirates.radio-t.com/categories/podcast/</guid>
+      <guid>http://pirates-dev.rownarts.com/categories/podcast/</guid>
       <description></description>
     </item>
     
