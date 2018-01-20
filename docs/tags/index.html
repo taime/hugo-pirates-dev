@@ -21,7 +21,7 @@
 
     <script href='http://pirates-dev.rownarts.com/javascripts/modernizr-2.0.js'></script>
     <script href='http://pirates-dev.rownarts.com/javascripts/ender.js'></script>
-    <script href='http://pirates-dev.rownarts.com/javascripts/octopress.js'></script>
+    
 
     
       
@@ -57,6 +57,14 @@
 <meta name="twitter:description" content=""/>
 
 
+
+    <script src='http://pirates-dev.rownarts.com/assets/audiojs/audio.min.js'></script>
+
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
 
 
   </head>
@@ -103,7 +111,11 @@
 </nav>
     <div id="main">
       <div id="content">
-        
+
+
+        <div class="blog-index">
+
+          
     
   <article class="cf pa3 pa4-m pa4-l">
     <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
@@ -116,29 +128,22 @@
     </section>
   </div>
 
+
+        </div>
+        <aside class="sidebar">
+          Sidebar
+        </aside>
+
+
       </div>
     </div>
-    <footer role="contentinfo"><footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://pirates-dev.rownarts.com/" >
-    &copy; 2018 Пираты Радио-Т - послешоу подкаста
-  </a>
-  
-
-
-
-
-
-
-
-
-  </div>
+    <footer role="contentinfo"><footer role="contentinfo">
+  <p>
+     &copy; 2018 Пираты Радио-Т - послешоу подкаста
+  </p>
 </footer>
 </footer>
     <script src="http://pirates-dev.rownarts.com/dist/app.bundle.js" async></script>
-
-
-
 
 
 
