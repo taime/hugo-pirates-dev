@@ -1,4 +1,4 @@
-baseURL = "http://pirates.radio-t.com/"
+baseURL = "http://pirates-dev.rownarts.com/"
 languageCode = "ru-ru"
 title = "Пираты Радио-Т - послешоу подкаста"
 theme = "pirates-radio-t"
