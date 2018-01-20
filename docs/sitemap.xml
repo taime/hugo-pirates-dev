@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://pirates.radio-t.com/posts/2017-08-19-podcast-/</loc>
+    <lastmod>2017-08-19T18:59:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirates.radio-t.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pirates.radio-t.com/categories/podcast/</loc>
+    <lastmod>2017-08-19T18:59:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pirates.radio-t.com/posts/</loc>
+    <lastmod>2017-08-19T18:59:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pirates.radio-t.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pirates.radio-t.com/</loc>
+    <lastmod>2017-08-19T18:59:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
