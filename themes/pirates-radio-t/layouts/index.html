@@ -18,7 +18,7 @@
 
 
         {{/* Range through the first $n_posts items of the section */}}
-        {{ range (first $n_posts $section).Reverse }}
+        {{ range (first $n_posts $section).ByDate.Reverse }}
 
             {{ partial "summary.html" . }}
 
