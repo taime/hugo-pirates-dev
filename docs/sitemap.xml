@@ -323,6 +323,21 @@
   </url>
   
   <url>
+    <loc>http://pirates-dev.rownarts.com/pages/license/</loc>
+    <lastmod>2012-06-13T22:53:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirates-dev.rownarts.com/pages/online/</loc>
+    <lastmod>2012-06-13T22:53:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pirates-dev.rownarts.com/pages/info/</loc>
+    <lastmod>2012-06-13T22:48:00+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pirates-dev.rownarts.com/posts/2012-06-09-podcast-292/</loc>
     <lastmod>2012-06-09T19:09:00+03:00</lastmod>
   </url>
@@ -1265,6 +1280,12 @@
   <url>
     <loc>http://pirates-dev.rownarts.com/categories/others/</loc>
     <lastmod>2011-10-09T00:53:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pirates-dev.rownarts.com/pages/</loc>
+    <lastmod>2012-06-13T22:53:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
