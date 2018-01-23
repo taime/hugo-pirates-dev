@@ -71,7 +71,9 @@
 
         </div>
         <aside class="sidebar">
-          Sidebar
+
+          {{ block "sidebar" . }}{{ partial "site-sidebar.html" . }}{{ end }}
+
         </aside>
 
 
@@ -79,6 +81,7 @@
     </div>
     <footer role="contentinfo">{{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}</footer>
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
+    
 
 
   </body>
