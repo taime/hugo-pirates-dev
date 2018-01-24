@@ -1,7 +1,6 @@
 ---
 title: "Лицензия"
 date: 2012-06-14T13:31:00+03:00
-date: 2012-06-13T22:53:00+03:00
 comments: true
 sharing: true
 footer: true
