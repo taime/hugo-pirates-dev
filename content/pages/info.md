@@ -4,6 +4,9 @@ date: 2012-06-13T22:48:00+03:00
 comments: false
 sharing: true
 footer: false
+type: page
+menu:
+  main: {}
 ---
 
 Это "пиратский сайт" после–шоу еженедельного HiTech подкаста выходного дня [Радио–Т](http://radio-t.com).

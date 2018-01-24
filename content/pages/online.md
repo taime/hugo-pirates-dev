@@ -4,6 +4,9 @@ date: 2012-06-13T22:53:00+03:00
 comments: false
 sharing: true
 footer: false
+type: page
+menu:
+  main: {}
 ---
 
 Запись подкаста производится по субботам, в 23:00мск. В это время, вы можете слушать нас в прямом эфире по ссылке: [http://stream.radio-t.com:8181/stream.m3u](http://stream.radio-t.com:8181/stream.m3u)

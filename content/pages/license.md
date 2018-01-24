@@ -1,9 +1,12 @@
 ---
 title: "Лицензия"
 date: 2012-06-14T13:31:00+03:00
-comments: true
+comments: false
 sharing: true
-footer: true
+footer: false
+type: page
+menu:
+  main: {}
 ---
 
 ![](/images/by-nc-nd.png)
