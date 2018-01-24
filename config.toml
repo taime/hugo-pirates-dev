@@ -10,6 +10,7 @@ title = "Пираты Радио-Т - послешоу подкаста"
 theme = "pirates-radio-t"
 publishDir = "docs"
 
+disqusShortname = "pirates-radio-t"
 
 [params]
 subtitle = "Вы можете услышать тут то, что происходит после сигнала \"запись шоу завершена\""
