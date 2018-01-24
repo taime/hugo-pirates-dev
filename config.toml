@@ -1,16 +1,17 @@
-baseURL = "http://pirates-dev.rownarts.com/"
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+baseURL = "http://localhost:1313"
+# baseURL = "http://pirates-dev.rownarts.com/"
+# baseURL = "http://pirates.radio-t.com"
 languageCode = "ru-ru"
 title = "Пираты Радио-Т - послешоу подкаста"
 theme = "pirates-radio-t"
 publishDir = "docs"
 
-[params]
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
 
-url = "http://pirates.radio-t.com"
-title = "Пираты Радио-Т - послешоу подкаста"
+[params]
 subtitle = "Вы можете услышать тут то, что происходит после сигнала \"запись шоу завершена\""
 author = "Umputun / Bobuk / Ksenks / Grаy"
 simple_search = "http://google.com/search"
