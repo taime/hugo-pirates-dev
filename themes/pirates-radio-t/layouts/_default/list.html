@@ -3,21 +3,24 @@
 
       {{ .Content }}
 
-  </article>
+
 
 
 
   <div>
     {{ $section := where .Data.Pages "Section" .Section }}
     <section >
-      {{ range  $section }}
+      {{ range  $section.ByDate.Reverse }}
         <div >
           {{ partial "summary.html" . }}
         </div>
       {{ end }}
     </section>
+
+
   {{ template "_internal/pagination.html" . }}
   </div>
 
+</article>
 
 {{ end }}
