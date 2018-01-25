@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others on Пираты Радио-Т - послешоу подкаста</title>
-    <link>http://localhost:1313/categories/others/</link>
+    <link>http://pirates-dev.rownarts.com/categories/others/</link>
     <description>Recent content in Others on Пираты Радио-Т - послешоу подкаста</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 09 Oct 2011 00:53:00 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/others/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pirates-dev.rownarts.com/categories/others/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>После РТ</title>
-      <link>http://localhost:1313/p/2011/10/09/podcast/</link>
+      <link>http://pirates-dev.rownarts.com/p/2011/10/09/podcast/</link>
       <pubDate>Sun, 09 Oct 2011 00:53:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/p/2011/10/09/podcast/</guid>
+      <guid>http://pirates-dev.rownarts.com/p/2011/10/09/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>После РТ Сайт пиратов переехал</title>
-      <link>http://localhost:1313/p/2011/09/24/podcast/</link>
+      <link>http://pirates-dev.rownarts.com/p/2011/09/24/podcast/</link>
       <pubDate>Sat, 24 Sep 2011 21:11:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/p/2011/09/24/podcast/</guid>
+      <guid>http://pirates-dev.rownarts.com/p/2011/09/24/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>После РТ Вопрос ребром</title>
-      <link>http://localhost:1313/p/2009/09/05/podcast/</link>
+      <link>http://pirates-dev.rownarts.com/p/2009/09/05/podcast/</link>
       <pubDate>Sat, 05 Sep 2009 12:37:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/p/2009/09/05/podcast/</guid>
+      <guid>http://pirates-dev.rownarts.com/p/2009/09/05/podcast/</guid>
       <description></description>
     </item>
     

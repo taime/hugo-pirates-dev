@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Пираты Радио-Т - послешоу подкаста</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://pirates-dev.rownarts.com/tags/</link>
     <description>Recent content in Tags on Пираты Радио-Т - послешоу подкаста</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pirates-dev.rownarts.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

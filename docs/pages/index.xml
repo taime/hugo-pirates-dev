@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Пираты Радио-Т - послешоу подкаста</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>http://pirates-dev.rownarts.com/pages/</link>
     <description>Recent content in Pages on Пираты Радио-Т - послешоу подкаста</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 14 Jun 2012 13:31:00 +0300</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pirates-dev.rownarts.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Лицензия</title>
-      <link>http://localhost:1313/pages/license/</link>
+      <link>http://pirates-dev.rownarts.com/pages/license/</link>
       <pubDate>Thu, 14 Jun 2012 13:31:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/pages/license/</guid>
+      <guid>http://pirates-dev.rownarts.com/pages/license/</guid>
       <description>Подкаст распространяется под лицензией Creative Commons - Attribution, Noncommercial, No Derivative Works 3.0 License Это значит, что вы можете наш подкаст слушать на чем угодно, как вам угодно и где вам удобно, хранить у себя, раздавать друзьям и знакомым и даже публиковать на своих сайтах/блогах. При этом (публикации) надо явно указывать ссылку на наш оригинальный сайт radio-t.com/ Никаких модификаций, миксов, нарезок и прочего дополнительного творчества, над нашими аудио и текстами производить не разрешается.</description>
     </item>
     
     <item>
       <title>Слушать Online вещание</title>
-      <link>http://localhost:1313/pages/online/</link>
+      <link>http://pirates-dev.rownarts.com/pages/online/</link>
       <pubDate>Wed, 13 Jun 2012 22:53:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/pages/online/</guid>
+      <guid>http://pirates-dev.rownarts.com/pages/online/</guid>
       <description>Запись подкаста производится по субботам, в 23:00мск. В это время, вы можете слушать нас в прямом эфире по ссылке: http://stream.radio-t.com:8181/stream.m3u
 Для обратной связи: jabber чат conference.radio-t.com room: online
 Так–же можно воспользоваться специальной программой http://apps.radio-t.com позволяющей одновременно слушать эфир, читать/писать в чат, голосовать и прочее приятное.</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Что это</title>
-      <link>http://localhost:1313/pages/info/</link>
+      <link>http://pirates-dev.rownarts.com/pages/info/</link>
       <pubDate>Wed, 13 Jun 2012 22:48:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/pages/info/</guid>
+      <guid>http://pirates-dev.rownarts.com/pages/info/</guid>
       <description>Это &amp;ldquo;пиратский сайт&amp;rdquo; после–шоу еженедельного HiTech подкаста выходного дня Радио–Т.
 Вы можете услышать тут то, что происходит после сигнала &amp;ldquo;запись шоу завершена&amp;rdquo;. Т.е. это НЕ подкаст шоу, во всяком случае очень своеобразное и наверняка не всем близкое действо. Авторы, а иногда и забредшие на огонек гости говорят свободно, открыто и не под запись.
 Самый правильный способ это слушать: прямой эфир. В интерактивной обстановке многое из того, что тут звучит обретает определенный смысл.</description>
