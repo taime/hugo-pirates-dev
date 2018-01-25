@@ -14,7 +14,7 @@ rssLimit = "10"
 disqusShortname = "pirates-radio-t"
 
 [permalinks]
-  posts = "/p/:year/:month/:day/:title/"
+  posts = "/p/:year/:month/:day/:slug/"
 
 [params]
 subtitle = "Вы можете услышать тут то, что происходит после сигнала \"запись шоу завершена\""
