@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 272"
+number: "272"
 date: 2012-01-14T17:37:00+03:00
 comments: true
 categories: podcast

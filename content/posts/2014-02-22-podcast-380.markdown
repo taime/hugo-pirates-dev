@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 380"
+number: "380"
 date: 2014-02-22T16:50:00+03:00
 comments: true
 categories: podcast

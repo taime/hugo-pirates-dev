@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 243"
+number: "243"
 date: 2011-06-18T12:55:00+03:00
 comments: true
 categories: podcast

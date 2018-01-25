@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 130"
+number: "130"
 date: 2009-03-28T18:40:00+03:00
 comments: true
 categories: podcast

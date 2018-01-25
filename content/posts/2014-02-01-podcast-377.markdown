@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 377"
+number: "377"
 date: 2014-02-01T16:05:00+03:00
 comments: true
 categories: podcast

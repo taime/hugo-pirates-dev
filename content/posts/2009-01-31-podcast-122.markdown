@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 122"
+number: "122"
 date: 2009-01-31T18:52:00+03:00
 comments: true
 categories: podcast

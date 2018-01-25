@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 364"
+number: "364"
 date: 2013-11-02T18:07:00+03:00
 comments: true
 categories: podcast

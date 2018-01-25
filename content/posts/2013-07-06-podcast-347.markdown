@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 347"
+number: "347"
 date: 2013-07-06T19:27:00+03:00
 comments: true
 categories: podcast

@@ -1,6 +1,7 @@
 ---
 
 title: "После РТ 346"
+number: "346"
 date: 2013-06-29T18:15:00+03:00
 comments: true
 categories: podcast
