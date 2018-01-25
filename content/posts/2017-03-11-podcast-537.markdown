@@ -8,4 +8,3 @@ filename: rt537post
 ---
 [аудио](http://cdn.radio-t.com/rt537post.mp3) ● [лог чата](http://chat.radio-t.com/logs/radio-t-537.html)
 <audio src="http://cdn.radio-t.com/rt537post.mp3" preload="none"/>
-
