@@ -21,7 +21,8 @@
 
     <script href='http://localhost:1313/javascripts/modernizr-2.0.js'></script>
     <script href='http://localhost:1313/javascripts/ender.js'></script>
-    
+    <script href='http://localhost:1313/javascripts/octopress.js'></script>
+    <link href="http://feeds.feedburner.com/pirate-radio-t" rel="alternate" title="Пираты Радио-Т - послешоу подкаста" type="application/atom+xml">
 
     
       
@@ -72,20 +73,6 @@
 
 
 
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-32628032-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
-
     <script src='http://localhost:1313/assets/audiojs/audio.min.js'></script>
 
     <script>
@@ -94,6 +81,8 @@
       });
     </script>
 
+
+    
 
   </head>
 
@@ -106,22 +95,33 @@
   </hgroup>
 </header>
 </header>
-    <nav role="navigation"><nav role="navigation">
+    <nav role="navigation">
 
 
-  <ul class="subscription" data-subscription="rss{% if site.subscribe_email %} email{% endif %}">
-    <li><a href="" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-
-      <li><a href="" rel="subscribe-email" title="subscribe via email">Email</a></li>
-
+  <ul class="subscription" data-subscription="rss">
+    <li><a href="http://feeds.feedburner.com/pirate-radio-t" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+    
   </ul>
-
-  <form action="" method="get">
+    
+  <form action="http://google.com/search" method="get">
     <fieldset role="search">
-      <input type="hidden" name="q" value="http://localhost:1313" />
+      <input type="hidden" name="q" value="site:http://localhost:1313" />
       <input class="search" type="text" name="q" results="0" placeholder="Search"/>
     </fieldset>
+    <fieldset class="mobile-nav">
+      <select>
+        <option value="">Navigate…</option><option value="http://pirates.radio-t.com/">» Главная страница</option>
+        <option value="http://pirates.radio-t.com/archives">» Архивы</option>
+        <option value="http://pirates.radio-t.com/info">» Что это</option>
+        <option value="http://radio-t.com/online">» Online вещание</option>
+        <option value="http://radio-t.com/faq">» FAQ</option>
+        <option value="http://feeds.feedburner.com/pirate-radio-t">» RSS</option>
+      </select>
+    </fieldset>
   </form>
+    
+
+
 
 
 
@@ -136,7 +136,7 @@
 
 
 </nav>
-</nav>
+
 
     <div id="main">
       <div id="content">
