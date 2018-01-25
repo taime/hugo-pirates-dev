@@ -23,7 +23,7 @@
 
     <script href='{{ "javascripts/modernizr-2.0.js" | absURL }}'></script>
     <script href='{{ "javascripts/ender.js" | absURL }}'></script>
-    <!-- <script href='{{ "javascripts/octopress.js" | absURL }}'></script> -->
+    <script href='{{ "javascripts/octopress.js" | absURL }}'></script>
 
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
@@ -45,20 +45,6 @@
     {{ end }}
 
 
-    <script type="text/javascript">
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-32628032-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
-    </script>
-
     <script src='{{ "assets/audiojs/audio.min.js" | absURL }}'></script>
 
     <script>
@@ -68,13 +54,14 @@
     </script>
 
 
+    {{ block "google-analytics" . }}{{ partial "ext/google_analytics.html" . }}{{ end }}
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
 
     <header role="banner">{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}</header>
-    <nav role="navigation">{{ block "navigation" . }}{{ partial "site-navigation.html" . }}{{ end }}</nav>
+    {{ block "navigation" . }}{{ partial "site-navigation.html" . }}{{ end }}
 
     <div id="main">
       <div id="content">
