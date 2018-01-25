@@ -1,6 +1,6 @@
 ---
 
-title: После РТ 192
+title: "После РТ 192"
 date: 2010-06-19T15:45:00+03:00
 comments: true
 categories: podcast
