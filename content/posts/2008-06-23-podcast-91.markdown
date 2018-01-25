@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 91"
-number: ""
+
 slug: "podcast-91"
 date: 2008-06-23T17:39:00+03:00
 comments: true

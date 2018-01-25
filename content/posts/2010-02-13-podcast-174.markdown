@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 174"
-number: ""
+
 slug: "podcast-174"
 date: 2010-02-13T18:48:00+03:00
 comments: true

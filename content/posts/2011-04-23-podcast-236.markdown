@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 236"
-number: ""
+
 slug: "podcast-236"
 date: 2011-04-23T14:05:00+03:00
 comments: true

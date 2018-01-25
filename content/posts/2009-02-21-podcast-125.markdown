@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 125"
-number: ""
+
 slug: "podcast-125"
 date: 2009-02-21T23:34:00+03:00
 comments: true

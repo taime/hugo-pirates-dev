@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 261"
-number: ""
+
 slug: "podcast-261"
 date: 2011-10-29T18:03:00+03:00
 comments: true

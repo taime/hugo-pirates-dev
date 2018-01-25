@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 440"
-number: ""
+
 slug: "podcast-440"
 date: 2015-04-18T18:27:00+03:00
 comments: true

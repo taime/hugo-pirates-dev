@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 537"
-number: ""
+
 slug: "podcast-537"
 date: 2017-03-11T16:59:00+03:00
 comments: true

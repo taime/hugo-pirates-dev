@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 116"
-number: ""
+
 slug: "podcast-116"
 date: 2008-12-13T21:20:00+03:00
 comments: true

@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 208"
-number: ""
+
 slug: "podcast-208"
 date: 2010-10-09T15:55:00+03:00
 comments: true

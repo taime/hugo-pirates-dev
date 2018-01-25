@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 227"
-number: ""
+
 slug: "podcast-227"
 date: 2011-02-19T13:34:00+03:00
 comments: true

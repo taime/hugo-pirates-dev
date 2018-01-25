@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 274"
-number: ""
+
 slug: "podcast-274"
 date: 2012-01-28T17:56:00+03:00
 comments: true

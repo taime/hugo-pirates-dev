@@ -1,7 +1,7 @@
 ---
 
 title: "После РТ 340"
-number: ""
+
 slug: "podcast-340"
 date: 2013-05-11T18:28:00+03:00
 comments: true
