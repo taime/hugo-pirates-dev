@@ -13,6 +13,9 @@ publishDir = "docs"
 rssLimit = "10"
 disqusShortname = "pirates-radio-t"
 
+[permalinks]
+  posts = "/p/:year/:month/:day/:title/"
+
 [params]
 subtitle = "Вы можете услышать тут то, что происходит после сигнала \"запись шоу завершена\""
 author = "Umputun / Bobuk / Ksenks / Grаy"
