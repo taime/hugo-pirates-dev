@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>После РТ </title>
-      <link>http://localhost:1313/posts/2017-08-19-podcast-/</link>
+      <title>После РТ 559</title>
+      <link>http://localhost:1313/posts/2017-08-19-podcast-559/</link>
       <pubDate>Sat, 19 Aug 2017 18:59:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-19-podcast-/</guid>
+      <guid>http://localhost:1313/posts/2017-08-19-podcast-559/</guid>
+      <description>аудио ● лог чата </description>
+    </item>
+    
+    <item>
+      <title>После РТ 562</title>
+      <link>http://localhost:1313/posts/2017-09-09-podcast-562/</link>
+      <pubDate>Sat, 19 Aug 2017 18:59:00 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-09-podcast-562/</guid>
       <description>аудио ● лог чата </description>
     </item>
     
@@ -89,15 +98,6 @@
       <pubDate>Sat, 07 May 2016 18:42:00 +0300</pubDate>
       
       <guid>http://localhost:1313/posts/2016-05-07-podcast-494/</guid>
-      <description>аудио ● лог чата</description>
-    </item>
-    
-    <item>
-      <title>После РТ 492</title>
-      <link>http://localhost:1313/posts/2016-04-23-podcast-492/</link>
-      <pubDate>Sat, 23 Apr 2016 19:03:00 +0300</pubDate>
-      
-      <guid>http://localhost:1313/posts/2016-04-23-podcast-492/</guid>
       <description>аудио ● лог чата</description>
     </item>
     

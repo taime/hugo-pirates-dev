@@ -13,13 +13,24 @@
     
     
     <entry>
-      <title>После РТ </title>
-      <link>http://localhost:1313/posts/2017-08-19-podcast-/</link>
+      <title>После РТ 559</title>
+      <link>http://localhost:1313/posts/2017-08-19-podcast-559/</link>
       <pubDate>Sat, 19 Aug 2017 18:59:00 +0300</pubDate>
       
-      <guid>http://localhost:1313/posts/2017-08-19-podcast-/</guid>
-      <content>&lt;p&gt;&lt;a href=&#34;http://cdn.radio-t.com/rtpost.mp3&#34;&gt;аудио&lt;/a&gt; ● &lt;a href=&#34;http://chat.radio-t.com/logs/radio-t-.html&#34;&gt;лог чата&lt;/a&gt;
-&lt;audio src=&#34;http://cdn.radio-t.com/rtpost.mp3&#34; preload=&#34;none&#34;/&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2017-08-19-podcast-559/</guid>
+      <content>&lt;p&gt;&lt;a href=&#34;http://cdn.radio-t.com/rt559post.mp3&#34;&gt;аудио&lt;/a&gt; ● &lt;a href=&#34;http://chat.radio-t.com/logs/radio-t-559.html&#34;&gt;лог чата&lt;/a&gt;
+&lt;audio src=&#34;http://cdn.radio-t.com/rt559post.mp3&#34; preload=&#34;none&#34;/&gt;&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>После РТ 562</title>
+      <link>http://localhost:1313/posts/2017-09-09-podcast-562/</link>
+      <pubDate>Sat, 19 Aug 2017 18:59:00 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-09-09-podcast-562/</guid>
+      <content>&lt;p&gt;&lt;a href=&#34;http://cdn.radio-t.com/rt562post.mp3&#34;&gt;аудио&lt;/a&gt; ● &lt;a href=&#34;http://chat.radio-t.com/logs/radio-t-562.html&#34;&gt;лог чата&lt;/a&gt;
+&lt;audio src=&#34;http://cdn.radio-t.com/rt562post.mp3&#34; preload=&#34;none&#34;/&gt;&lt;/p&gt;
 </content>
     </entry>
     
@@ -108,17 +119,6 @@
       <guid>http://localhost:1313/posts/2016-05-07-podcast-494/</guid>
       <content>&lt;p&gt;&lt;a href=&#34;http://cdn.radio-t.com/rt494post.mp3&#34;&gt;аудио&lt;/a&gt; ● &lt;a href=&#34;http://chat.radio-t.com/logs/radio-t-494.html&#34;&gt;лог чата &lt;/a&gt;
 &lt;audio src=&#34;http://cdn.radio-t.com/rt494post.mp3&#34; preload=&#34;none&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
-</content>
-    </entry>
-    
-    <entry>
-      <title>После РТ 492</title>
-      <link>http://localhost:1313/posts/2016-04-23-podcast-492/</link>
-      <pubDate>Sat, 23 Apr 2016 19:03:00 +0300</pubDate>
-      
-      <guid>http://localhost:1313/posts/2016-04-23-podcast-492/</guid>
-      <content>&lt;p&gt;&lt;a href=&#34;http://cdn.radio-t.com/rt492post.mp3&#34;&gt;аудио&lt;/a&gt; ● &lt;a href=&#34;http://chat.radio-t.com/logs/radio-t-492.html&#34;&gt;лог чата &lt;/a&gt;
-&lt;audio src=&#34;http://cdn.radio-t.com/rt492post.mp3&#34; preload=&#34;none&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
 </content>
     </entry>
     
