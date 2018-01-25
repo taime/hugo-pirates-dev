@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 374"
+title: "После РТ 374"
 date: 2014-01-11T16:27:00+03:00
 comments: true
 categories: podcast

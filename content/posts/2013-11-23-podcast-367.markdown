@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 367"
+title: "После РТ 367"
 date: 2013-11-23T16:14:00+03:00
 comments: true
 categories: podcast

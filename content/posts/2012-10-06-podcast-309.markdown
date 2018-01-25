@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 309"
+title: "После РТ 309"
 date: 2012-10-06T20:13:00+03:00
 comments: true
 categories: podcast

@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 333"
+title: "После РТ 333"
 date: 2013-03-23T19:02:00+03:00
 comments: true
 categories: podcast

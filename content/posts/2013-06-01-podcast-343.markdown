@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 343"
+title: "После РТ 343"
 date: 2013-06-01T18:29:00+03:00
 comments: true
 categories: podcast

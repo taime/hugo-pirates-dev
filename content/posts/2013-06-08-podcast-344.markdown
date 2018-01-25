@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 344"
+title: "После РТ 344"
 date: 2013-06-08T18:40:00+03:00
 comments: true
 categories: podcast

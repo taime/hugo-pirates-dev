@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 325"
+title: "После РТ 325"
 date: 2013-01-26T17:20:00+03:00
 comments: true
 categories: podcast

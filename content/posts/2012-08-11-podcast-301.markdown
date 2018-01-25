@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 301"
+title: "После РТ 301"
 date: 2012-08-11T19:06:00+03:00
 comments: true
 categories: podcast

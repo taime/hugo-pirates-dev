@@ -1,6 +1,6 @@
 ---
 
-title: "После РT 338"
+title: "После РТ 338"
 date: 2013-04-27T18:26:00+03:00
 comments: true
 categories: podcast
