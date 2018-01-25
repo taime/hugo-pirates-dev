@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 494"
-number: "494"
+number: ""
+slug: "podcast-494"
 date: 2016-05-07T18:42:00+03:00
 comments: true
 filename: rt494post

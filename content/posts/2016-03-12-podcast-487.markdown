@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 487"
-number: "487"
+number: ""
+slug: "podcast-487"
 date: 2016-03-12T18:09:00+03:00
 comments: true
 filename: rt487post

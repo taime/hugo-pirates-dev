@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 97"
-number: "97"
+number: ""
+slug: "podcast-97"
 date: 2008-08-03T12:12:00+03:00
 comments: true
 categories: podcast

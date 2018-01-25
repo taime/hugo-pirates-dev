@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 150"
-number: "150"
+number: ""
+slug: "podcast-150"
 date: 2009-08-22T13:56:00+03:00
 comments: true
 categories: podcast

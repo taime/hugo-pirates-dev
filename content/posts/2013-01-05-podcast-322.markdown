@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 322"
-number: "322"
+number: ""
+slug: "podcast-322"
 date: 2013-01-05T18:22:00+03:00
 comments: true
 categories: podcast

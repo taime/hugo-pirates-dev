@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 293"
-number: "293"
+number: ""
+slug: "podcast-293"
 date: 2012-06-16T18:39:00+03:00
 comments: true
 categories: podcast

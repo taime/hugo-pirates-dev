@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 167"
-number: "167"
+number: ""
+slug: "podcast-167"
 date: 2009-12-26T15:29:00+03:00
 comments: true
 categories: podcast

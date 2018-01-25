@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 220"
-number: "220"
+number: ""
+slug: "podcast-220"
 date: 2011-01-01T13:05:00+03:00
 comments: true
 categories: podcast

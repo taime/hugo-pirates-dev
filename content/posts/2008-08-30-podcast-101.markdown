@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 101"
-number: "101"
+number: ""
+slug: "podcast-101"
 date: 2008-08-30T17:22:00+03:00
 comments: true
 categories: podcast

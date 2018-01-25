@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 367"
-number: "367"
+number: ""
+slug: "podcast-367"
 date: 2013-11-23T16:14:00+03:00
 comments: true
 categories: podcast

@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 256"
-number: "256"
+number: ""
+slug: "podcast-256"
 date: 2011-09-24T13:22:00+03:00
 comments: true
 categories: podcast

@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 180"
-number: "180"
+number: ""
+slug: "podcast-180"
 date: 2010-03-27T15:59:00+03:00
 comments: true
 categories: podcast

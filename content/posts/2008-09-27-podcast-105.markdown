@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 105"
-number: "105"
+number: ""
+slug: "podcast-105"
 date: 2008-09-27T16:40:00+03:00
 comments: true
 categories: podcast

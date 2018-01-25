@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 541"
-number: "541"
+number: ""
+slug: "podcast-541"
 date: 2017-04-15T18:23:00+03:00
 comments: true
 categories: podcast

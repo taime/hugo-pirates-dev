@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 268"
-number: "268"
+number: ""
+slug: "podcast-268"
 date: 2011-12-17T18:15:00+03:00
 comments: true
 categories: podcast

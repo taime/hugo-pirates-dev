@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 111"
-number: "111"
+number: ""
+slug: "podcast-111"
 date: 2008-11-08T19:09:00+03:00
 comments: true
 categories: podcast

@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 249"
-number: "249"
+number: ""
+slug: "podcast-249"
 date: 2011-07-30T14:01:00+03:00
 comments: true
 categories: podcast

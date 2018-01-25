@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 120"
-number: "120"
+number: ""
+slug: "podcast-120"
 date: 2009-01-17T17:34:00+03:00
 comments: true
 categories: podcast

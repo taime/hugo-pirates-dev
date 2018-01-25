@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 492"
-number: "492"
+number: ""
+slug: "podcast-492"
 date: 2016-04-23T19:03:00+03:00
 comments: true
 filename: rt492post

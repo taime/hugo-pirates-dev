@@ -1,7 +1,8 @@
 ---
 
 title: "После РТ 203"
-number: "203"
+number: ""
+slug: "podcast-203"
 date: 2010-09-04T12:17:00+03:00
 comments: true
 categories: podcast
