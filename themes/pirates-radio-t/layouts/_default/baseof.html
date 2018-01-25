@@ -24,6 +24,7 @@
     <script href='{{ "javascripts/modernizr-2.0.js" | absURL }}'></script>
     <script href='{{ "javascripts/ender.js" | absURL }}'></script>
     <script href='{{ "javascripts/octopress.js" | absURL }}'></script>
+    <link href="{{ $.Site.Params.subscribe_rss }}" rel="alternate" title="{{.Site.Title}}" type="application/atom+xml">
 
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
