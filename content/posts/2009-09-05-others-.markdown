@@ -2,7 +2,6 @@
 
 title: "После РТ Вопрос ребром"
 number: ""
-slug: "podcast-"
 date: 2009-09-05T12:37:00+03:00
 comments: true
 categories: others
