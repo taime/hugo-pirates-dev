@@ -14,6 +14,23 @@
       </header>
         {{ .Content }}
 
+
+
+
+          <div class="sharing">
+            {{ if $.Site.Params.twitter_tweet_button }}
+            <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ .Permalink }}" data-via="{{ $.Site.Params.twitter_user }}" data-counturl="{{ .Permalink }}" >Tweet</a>
+            {{ end }}
+            {{ if $.Site.Params.google_plus_one }}
+            <div class="g-plusone" data-size="{{ $.Site.Params.google_plus_one_size }}"></div>
+            {{ end }}
+            {{ if $.Site.Params.facebook_like }}
+              <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+            {{ end }}
+          </div>
+
+
+
         {{ template "_internal/disqus.html" . }}
     </article>
 
