@@ -2,7 +2,7 @@
 
 title: "После РТ 216"
 
-slug: "podcast-216"
+slug: "216"
 date: 2010-12-04T13:26:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 562"
 
-slug: "podcast-562"
+slug: "562"
 date: 2017-09-09T18:59:00+03:00
 comments: true
 categories: podcast

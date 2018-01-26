@@ -2,7 +2,7 @@
 
 title: "После РТ 521"
 
-slug: "podcast-521"
+slug: "521"
 date: 2016-11-12T18:33:00+03:00
 comments: true
 categories: podcast

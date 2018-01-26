@@ -1,7 +1,7 @@
 ---
 title: "После РТ 93"
 
-slug: "podcast-93"
+slug: "93"
 date: 2008-07-05T22:38:00+03:00
 comments: true
 categories: podcast

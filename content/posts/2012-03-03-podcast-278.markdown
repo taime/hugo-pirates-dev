@@ -2,7 +2,7 @@
 
 title: "После РТ 278"
 
-slug: "podcast-278"
+slug: "278"
 date: 2012-03-03T17:37:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 328"
 
-slug: "podcast-328"
+slug: "328"
 date: 2013-02-16T16:31:00+03:00
 comments: true
 categories: podcast

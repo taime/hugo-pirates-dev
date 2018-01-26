@@ -2,7 +2,7 @@
 
 title: "После РТ 416"
 
-slug: "podcast-416"
+slug: "416"
 date: 2014-11-01T23:55:00+03:00
 comments: true
 categories: podcast

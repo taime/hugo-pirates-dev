@@ -2,7 +2,7 @@
 
 title: "После РТ 206"
 
-slug: "podcast-206"
+slug: "206"
 date: 2010-09-25T13:13:00+03:00
 comments: true
 categories: podcast

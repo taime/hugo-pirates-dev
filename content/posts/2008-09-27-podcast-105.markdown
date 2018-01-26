@@ -2,7 +2,7 @@
 
 title: "После РТ 105"
 
-slug: "podcast-105"
+slug: "105"
 date: 2008-09-27T16:40:00+03:00
 comments: true
 categories: podcast

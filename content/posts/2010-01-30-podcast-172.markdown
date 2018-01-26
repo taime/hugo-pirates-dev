@@ -2,7 +2,7 @@
 
 title: "После РТ 172"
 
-slug: "podcast-172"
+slug: "172"
 date: 2010-01-30T18:43:00+03:00
 comments: true
 categories: podcast

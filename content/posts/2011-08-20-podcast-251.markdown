@@ -2,7 +2,7 @@
 
 title: "После РТ 251"
 
-slug: "podcast-251"
+slug: "251"
 date: 2011-08-20T13:31:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 234"
 
-slug: "podcast-234"
+slug: "234"
 date: 2011-04-09T13:27:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 430"
 
-slug: "podcast-430"
+slug: "430"
 date: 2015-02-07T17:50:00+03:00
 comments: true
 categories: podcast

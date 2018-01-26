@@ -2,7 +2,7 @@
 
 title: "После РТ 331"
 
-slug: "podcast-331"
+slug: "331"
 date: 2013-03-09T17:01:00+03:00
 comments: true
 categories: podcast

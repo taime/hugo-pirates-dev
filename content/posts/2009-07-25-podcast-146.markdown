@@ -2,7 +2,7 @@
 
 title: "После РТ 146"
 
-slug: "podcast-146"
+slug: "146"
 date: 2009-07-25T16:46:00+03:00
 comments: true
 categories: podcast

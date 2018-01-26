@@ -2,7 +2,7 @@
 
 title: "После РТ 277"
 
-slug: "podcast-277"
+slug: "277"
 date: 2012-02-25T17:30:00+03:00
 comments: true
 categories: podcast

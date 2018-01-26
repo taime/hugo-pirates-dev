@@ -2,7 +2,7 @@
 
 title: "После РТ 404"
 
-slug: "podcast-404"
+slug: "404"
 date: 2014-08-09T17:24:00+03:00
 comments: true
 categories: podcast

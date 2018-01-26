@@ -2,7 +2,7 @@
 
 title: "После РТ 235"
 
-slug: "podcast-235"
+slug: "235"
 date: 2011-04-16T14:34:00+03:00
 comments: true
 categories: podcast

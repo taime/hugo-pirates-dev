@@ -2,7 +2,7 @@
 
 title: "После РТ 181"
 
-slug: "podcast-181"
+slug: "181"
 date: 2010-04-03T13:51:00+03:00
 comments: true
 categories: podcast

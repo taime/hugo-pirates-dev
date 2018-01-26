@@ -2,7 +2,7 @@
 
 title: "После РТ 446"
 
-slug: "podcast-446"
+slug: "446"
 date: 2015-05-31T15:06:00+03:00
 comments: true
 categories: podcast

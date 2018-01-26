@@ -2,7 +2,7 @@
 
 title: "После РТ 372"
 
-slug: "podcast-372"
+slug: "372"
 date: 2013-12-28T16:35:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 517"
 
-slug: "podcast-517"
+slug: "517"
 date: 2016-10-15T19:01:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 141"
 
-slug: "podcast-141"
+slug: "141"
 date: 2009-06-20T14:34:00+03:00
 comments: true
 categories: podcast

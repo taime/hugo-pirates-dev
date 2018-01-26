@@ -2,7 +2,7 @@
 
 title: "После РТ 287"
 
-slug: "podcast-287"
+slug: "287"
 date: 2012-05-05T18:52:00+03:00
 comments: true
 categories: podcast

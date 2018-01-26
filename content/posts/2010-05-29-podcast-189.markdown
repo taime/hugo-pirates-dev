@@ -2,7 +2,7 @@
 
 title: "После РТ 189"
 
-slug: "podcast-189"
+slug: "189"
 date: 2010-05-29T17:18:00+03:00
 comments: true
 categories: podcast

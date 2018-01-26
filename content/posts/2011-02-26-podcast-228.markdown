@@ -2,7 +2,7 @@
 
 title: "После РТ 228"
 
-slug: "podcast-228"
+slug: "228"
 date: 2011-02-26T13:57:00+03:00
 comments: true
 categories: podcast

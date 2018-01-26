@@ -2,7 +2,7 @@
 
 title: "После РТ 343"
 
-slug: "podcast-343"
+slug: "343"
 date: 2013-06-01T18:29:00+03:00
 comments: true
 categories: podcast

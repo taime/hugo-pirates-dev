@@ -2,7 +2,7 @@
 
 title: "После РТ 197"
 
-slug: "podcast-197"
+slug: "197"
 date: 2010-07-24T14:07:00+03:00
 comments: true
 categories: podcast

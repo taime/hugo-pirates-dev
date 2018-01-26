@@ -2,7 +2,7 @@
 
 title: "После РТ 239"
 
-slug: "podcast-239"
+slug: "239"
 date: 2011-05-14T13:16:00+03:00
 comments: true
 categories: podcast

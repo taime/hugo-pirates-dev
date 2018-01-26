@@ -2,7 +2,7 @@
 
 title: "После РТ 100"
 
-slug: "podcast-100"
+slug: "100"
 date: 2008-08-23T17:04:00+03:00
 comments: true
 categories: podcast

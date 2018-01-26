@@ -2,7 +2,7 @@
 
 title: "После РТ 354"
 
-slug: "podcast-354"
+slug: "354"
 date: 2013-08-24T19:29:00+03:00
 comments: true
 categories: podcast

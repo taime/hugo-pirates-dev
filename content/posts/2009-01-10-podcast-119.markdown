@@ -2,7 +2,7 @@
 
 title: "После РТ 119"
 
-slug: "podcast-119"
+slug: "119"
 date: 2009-01-10T21:59:00+03:00
 comments: true
 categories: podcast

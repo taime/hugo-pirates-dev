@@ -2,7 +2,7 @@
 
 title: "После РТ 324"
 
-slug: "podcast-324"
+slug: "324"
 date: 2013-01-19T16:45:00+03:00
 comments: true
 categories: podcast

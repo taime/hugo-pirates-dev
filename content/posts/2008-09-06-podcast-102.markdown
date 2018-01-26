@@ -2,7 +2,7 @@
 
 title: "После РТ 102"
 
-slug: "podcast-102"
+slug: "102"
 date: 2008-09-06T14:33:00+03:00
 comments: true
 categories: podcast

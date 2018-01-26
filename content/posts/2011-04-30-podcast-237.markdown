@@ -2,7 +2,7 @@
 
 title: "После РТ 237"
 
-slug: "podcast-237"
+slug: "237"
 date: 2011-04-30T14:40:00+03:00
 comments: true
 categories: podcast
