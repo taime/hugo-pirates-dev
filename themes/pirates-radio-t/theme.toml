@@ -3,13 +3,13 @@
 
 name = "Pirates Radio-T"
 license = "MIT"
-licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
+licenselink = ""
 description = "Radio-T Theme"
-homepage = "https://radio-t.com"
+homepage = "https://pirates.radio-t.com"
 tags = ["website"]
 features = ["posts", "shortcodes"]
 min_version = 0.25
 
 [author]
-  name = "Umputun, Bobuk, Ksenks, Gray, Tema"
-  homepage = "https://radio-t.com"
+  name = "Artem Ryabinin"
+  homepage = "https://ryabinin.com"
