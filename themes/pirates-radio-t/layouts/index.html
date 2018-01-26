@@ -18,11 +18,13 @@
 
 
         {{/* Range through the first $n_posts items of the section */}}
+        <div class="blog-index">
         {{ range (first $n_posts $section).ByDate.Reverse }}
 
             {{ partial "summary.html" . }}
 
         {{ end }}
+        </div>
 
 
       {{ if ge $section_count (add $n_posts 1) }}
