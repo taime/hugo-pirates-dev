@@ -2,7 +2,7 @@
 
 title: "После РТ 490"
 
-slug: "490"
+slug: "podcast-490"
 date: 2016-04-02T20:38:00+03:00
 comments: true
 filename: rt490post

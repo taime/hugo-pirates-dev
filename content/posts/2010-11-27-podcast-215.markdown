@@ -2,7 +2,7 @@
 
 title: "После РТ 215"
 
-slug: "215"
+slug: "podcast-215"
 date: 2010-11-27T13:03:00+03:00
 comments: true
 categories: podcast

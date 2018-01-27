@@ -2,7 +2,7 @@
 
 title: "После РТ 550"
 
-slug: "550"
+slug: "podcast-550"
 date: 2017-06-17T20:21:00+03:00
 comments: true
 categories: podcast

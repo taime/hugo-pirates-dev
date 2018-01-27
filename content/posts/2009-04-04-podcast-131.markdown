@@ -2,7 +2,7 @@
 
 title: "После РТ 131"
 
-slug: "131"
+slug: "podcast-131"
 date: 2009-04-04T14:36:00+03:00
 comments: true
 categories: podcast

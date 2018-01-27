@@ -2,7 +2,7 @@
 
 title: "После РТ 255"
 
-slug: "255"
+slug: "podcast-255"
 date: 2011-09-17T13:55:00+03:00
 comments: true
 categories: podcast

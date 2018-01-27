@@ -2,7 +2,7 @@
 
 title: "После РТ 297"
 
-slug: "297"
+slug: "podcast-297"
 date: 2012-07-14T19:03:00+03:00
 comments: true
 categories: podcast

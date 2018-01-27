@@ -2,7 +2,7 @@
 
 title: "После РТ 213"
 
-slug: "213"
+slug: "podcast-213"
 date: 2010-11-13T15:15:00+03:00
 comments: true
 categories: podcast

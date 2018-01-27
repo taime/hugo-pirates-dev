@@ -2,7 +2,7 @@
 
 title: "После РТ 162"
 
-slug: "162"
+slug: "podcast-162"
 date: 2009-11-21T16:49:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 159"
 
-slug: "159"
+slug: "podcast-159"
 date: 2009-10-31T18:08:00+03:00
 comments: true
 categories: podcast

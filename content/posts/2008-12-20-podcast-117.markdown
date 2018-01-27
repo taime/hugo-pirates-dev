@@ -2,7 +2,7 @@
 
 title: "После РТ 117"
 
-slug: "117"
+slug: "podcast-117"
 date: 2008-12-20T18:04:00+03:00
 comments: true
 categories: podcast

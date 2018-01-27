@@ -2,7 +2,7 @@
 
 title: "После РТ 123"
 
-slug: "123"
+slug: "podcast-123"
 date: 2009-02-07T18:13:00+03:00
 comments: true
 categories: podcast

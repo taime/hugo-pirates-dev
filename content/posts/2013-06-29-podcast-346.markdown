@@ -2,7 +2,7 @@
 
 title: "После РТ 346"
 
-slug: "346"
+slug: "podcast-346"
 date: 2013-06-29T18:15:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 91"
 
-slug: "91"
+slug: "podcast-91"
 date: 2008-06-23T17:39:00+03:00
 comments: true
 categories: podcast

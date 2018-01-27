@@ -2,7 +2,7 @@
 
 title: "После РТ 305"
 
-slug: "305"
+slug: "podcast-305"
 date: 2012-09-08T17:51:00+03:00
 comments: true
 categories: podcast

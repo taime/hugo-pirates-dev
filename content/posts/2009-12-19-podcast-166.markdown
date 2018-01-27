@@ -2,7 +2,7 @@
 
 title: "После РТ 166"
 
-slug: "166"
+slug: "podcast-166"
 date: 2009-12-19T16:28:00+03:00
 comments: true
 categories: podcast

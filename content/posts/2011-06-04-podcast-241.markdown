@@ -2,7 +2,7 @@
 
 title: "После РТ 241"
 
-slug: "241"
+slug: "podcast-241"
 date: 2011-06-04T13:07:00+03:00
 comments: true
 categories: podcast

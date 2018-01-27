@@ -2,7 +2,7 @@
 
 title: "После РТ 263"
 
-slug: "263"
+slug: "podcast-263"
 date: 2011-11-12T17:41:00+03:00
 comments: true
 categories: podcast

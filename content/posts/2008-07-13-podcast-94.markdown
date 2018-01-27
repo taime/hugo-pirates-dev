@@ -2,7 +2,7 @@
 
 title: "После РТ 94"
 
-slug: "94"
+slug: "podcast-94"
 date: 2008-07-13T14:35:00+03:00
 comments: true
 categories: podcast

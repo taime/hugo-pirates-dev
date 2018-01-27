@@ -2,7 +2,7 @@
 
 title: "После РТ 127"
 
-slug: "127"
+slug: "podcast-127"
 date: 2009-03-07T19:51:00+03:00
 comments: true
 categories: podcast

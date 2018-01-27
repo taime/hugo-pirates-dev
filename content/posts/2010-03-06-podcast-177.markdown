@@ -2,7 +2,7 @@
 
 title: "После РТ 177"
 
-slug: "177"
+slug: "podcast-177"
 date: 2010-03-06T18:07:00+03:00
 comments: true
 categories: podcast

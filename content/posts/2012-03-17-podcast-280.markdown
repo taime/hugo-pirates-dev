@@ -2,7 +2,7 @@
 
 title: "После РТ 280"
 
-slug: "280"
+slug: "podcast-280"
 date: 2012-03-17T18:57:00+03:00
 comments: true
 categories: podcast

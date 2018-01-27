@@ -2,7 +2,7 @@
 
 title: "После РТ 281"
 
-slug: "281"
+slug: "podcast-281"
 date: 2012-03-24T18:57:00+03:00
 comments: true
 categories: podcast

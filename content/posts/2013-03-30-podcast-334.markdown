@@ -2,7 +2,7 @@
 
 title: "После РТ 334"
 
-slug: "334"
+slug: "podcast-334"
 date: 2013-03-30T17:38:00+03:00
 comments: true
 categories: podcast

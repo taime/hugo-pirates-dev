@@ -2,7 +2,7 @@
 
 title: "После РТ"
 
-slug: ""
+slug: "podcast-"
 date: 2008-10-26T13:12:00+03:00
 comments: true
 categories: podcast

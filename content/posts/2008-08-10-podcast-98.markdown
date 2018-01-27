@@ -2,7 +2,7 @@
 
 title: "После РТ 98"
 
-slug: "98"
+slug: "podcast-98"
 date: 2008-08-10T12:10:00+03:00
 comments: true
 categories: podcast

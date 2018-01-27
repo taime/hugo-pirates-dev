@@ -2,7 +2,7 @@
 
 title: "После РТ 421"
 
-slug: "421"
+slug: "podcast-421"
 date: 2014-12-06T23:54:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 201"
 
-slug: "201"
+slug: "podcast-201"
 date: 2010-08-21T15:52:00+03:00
 comments: true
 categories: podcast

@@ -2,7 +2,7 @@
 
 title: "После РТ 387"
 
-slug: "387"
+slug: "podcast-387"
 date: 2014-04-12T17:21:00+03:00
 comments: true
 categories: podcast 

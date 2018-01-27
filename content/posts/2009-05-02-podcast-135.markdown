@@ -2,7 +2,7 @@
 
 title: "После РТ 135"
 
-slug: "135"
+slug: "podcast-135"
 date: 2009-05-02T15:49:00+03:00
 comments: true
 categories: podcast
