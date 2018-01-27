@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="blog-index">
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
@@ -18,13 +19,12 @@
 
 
         {{/* Range through the first $n_posts items of the section */}}
-        <div class="blog-index">
         {{ range (first $n_posts $section).ByDate.Reverse }}
-
             {{ partial "summary.html" . }}
-
         {{ end }}
-        </div>
+
+
+
 
 
       {{ if ge $section_count (add $n_posts 1) }}
@@ -34,12 +34,30 @@
 
         {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
         {{ with .Site.GetPage "section" $section_name }}
-          <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">Все подкасты</a>
+          <a href="{{ .URL }}">Архивы подкаста</a>
         {{ end }}
         </section>
+
+
+
+
+
       </div>
+
+
+
+
+
+
+
+
+
       {{ end }}
 
 
+
+
+
   {{ end }}
+  </div>
 {{ end }}
