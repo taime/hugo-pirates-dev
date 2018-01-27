@@ -1,5 +1,6 @@
 {{ define "main" }}
-
+<div>
+  <article role='article'>
 
       {{ .Content }}
 
@@ -7,12 +8,12 @@
 
 
 
-  <div>
+
     {{ $section := where .Data.Pages "Section" .Section }}
 
 
 
-      <article role='article'>
+
         <header>
           <h1 class="entry-title">Blog Archive</h1>
         </header>
@@ -30,15 +31,15 @@
       </div>
 
 
-      </article>
+
 
 
 
 
   {{ template "_internal/pagination.html" . }}
 
-  </div>
 
 
-
+</article>
+</div>
 {{ end }}
